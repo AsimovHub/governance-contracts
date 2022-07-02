@@ -11,3 +11,7 @@ build
 node_modules
 
 .secret
+
+test
+migrations
+package-lock.json
